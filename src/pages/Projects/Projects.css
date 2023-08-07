@@ -1,0 +1,8 @@
+.project-section-container{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+.projects{
+  width: fit-content;
+}

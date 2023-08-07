@@ -1,0 +1,23 @@
+body{
+  font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.CA{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 18px;
+  font-family:Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  width: 80vw;
+  box-shadow: 0px 0px 10px 1px rgb(82, 82, 82);
+  border-radius: 8px;
+  padding:16px 32px 16px 32px;
+  margin-block: 8px;
+  cursor: pointer;
+}
+.CA:hover{
+  box-shadow: 0px 0px 10px 5px rgb(82, 82, 82);
+}
+.CA{
+  color: black;
+}

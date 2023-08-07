@@ -1,0 +1,15 @@
+[
+  {
+    "type" : "Email",
+    "info" : "leonardoborsetta@gmail.com"
+  },
+  {
+    "type" : "Telefono",
+    "info": "+54 9 2944 212992"
+  },
+  {
+    "type": "Instagram",
+    "info" : "@leoborsetta",
+    "href" : "https://www.Instagram.com/leoborsetta"
+  }
+]

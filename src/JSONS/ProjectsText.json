@@ -1,0 +1,24 @@
+{
+  "Projects":[
+    {
+      "i":0,
+      "name":"BorsiWeather",
+      "desc":"BorsiWeather es una aplicacion del tiempo, en la que podemos buscar practicamente cualquier ciudad del mundo y ver el tiempo actual,  pronostico para 2 dia en adelante y pronostico por hora. Cuenta con una navegacion intuitiva, es una SPA y esta conectada a una API. Para crear esta applicacion use React, Wouter, CSS y JS",
+      "img":[
+        "/BorsiWeatherImg1.jpg","/BorsiWeatherImg2.jpg","/BorsiWeatherImg3.jpg"
+      ],
+      "descEN":"BorsiWeather is weather app, in wich the user can search almost any city of the world and see its current time, 2 day forecast and each hour forecast for those days. It has an intuitive navigation, its a SPA and its connected to an API. To create this aplication I used React, JS, CSS and Wouter.",
+      "URL":"https://borsi-weather.vercel.app/"
+    },
+    {
+      "i":1,
+      "name":"Buscador Gif",
+      "desc":"Sencillo buscador de Gifs utilizando la API de Giphy. Puedes buscar gifs por algun criterio, ver las trending actuales y ver en detalle cada gif.",
+      "img":[
+        "/BorsiWeatherImg1.jpg","/BorsiWeatherImg2.jpg","/BorsiWeatherImg3.jpg"
+      ],
+      "descEN":"Simple gif searcher using Giphy API. You can search by parameter, see the current trendings and details of each gif.",
+      "URL":"https://gif-searcher-gilt.vercel.app/"
+    }
+  ]
+}

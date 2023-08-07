@@ -1,0 +1,19 @@
+body{
+  background-color: #fff;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
+h1,h2,h3{
+  font-family: Noto+Serif+JP;
+  font-weight: 900;
+}
+li{
+  list-style:none ;
+}
