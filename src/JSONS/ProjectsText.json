@@ -15,7 +15,7 @@
       "name":"Buscador Gif",
       "desc":"Sencillo buscador de Gifs utilizando la API de Giphy. Puedes buscar gifs por algun criterio, ver las trending actuales y ver en detalle cada gif.",
       "img":[
-        "/BorsiWeatherImg1.jpg","/BorsiWeatherImg2.jpg","/BorsiWeatherImg3.jpg"
+        "/BuscadorDeGifs1.jpg","/BuscadorDeGifs2.jpg","/BuscadorDeGifs3.jpg"
       ],
       "descEN":"Simple gif searcher using Giphy API. You can search by parameter, see the current trendings and details of each gif.",
       "URL":"https://gif-searcher-gilt.vercel.app/"
